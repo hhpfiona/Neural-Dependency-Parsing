@@ -1,4 +1,4 @@
-# Neural-Dependency-Parsing
+# Neural-Dependency-Parsing [September - October 2024]
 
 Welcome to my **Neural Dependency Parsing** project! This personal endeavor combines concepts from computational linguistics and machine learning to implement and experiment with dependency parsing using transition-based and graph-based approaches. By the end of the project, you’ll have a fully functional parser capable of predicting dependency trees for sentences using neural networks, with implementations designed to handle both projective and non-projective trees.
 
