@@ -76,8 +76,8 @@ Working on this project helped me:
 ### GPU Training
 - For faster training, use a GPU:
   ```bash
-  ./gpu-train.sh q1
-  ./gpu-train.sh q2
+  ./gpu-train.sh transition
+  ./gpu-train.sh graph
   ```
 - Ensure you have access to GPU-equipped machines, especially if working on university servers.
 
