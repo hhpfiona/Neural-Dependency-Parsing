@@ -56,21 +56,21 @@ Working on this project helped me:
 ### Running the Code
 1. **Transition-Based Parser**:
    ```bash
-   python3 train.py q1
+   python3 train.py transition
    ```
    - Runs the training for the transition-based parser and evaluates its performance.
 
 2. **Graph-Based Parser**:
    ```bash
-   python3 train.py q2
+   python3 train.py graph
    ```
    - Trains the graph-based parser and computes attachment scores on test data.
 
 3. **Debugging**:
    - Use the `--debug` flag for faster, small-scale training during development:
      ```bash
-     python3 train.py --debug q1
-     python3 train.py --debug q2
+     python3 train.py --debug transition
+     python3 train.py --debug graph
      ```
 
 ### GPU Training
